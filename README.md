@@ -4,14 +4,14 @@ A responsive, visually engaging landing page for **Kyara Beverages**.
 
 ## Live Preview
 
-🔗 [GitHub Pages Live Demo](https://yourusername.github.io/kyara-beverages)  
+🔗 [GitHub Pages Live Demo](https://keshaapatel.github.io/kyara)  
 📸 [Preview Screenshot](assets/live-preview.png)
 [Figma LinK](https://www.figma.com/design/dKSJck56nSIDGZF2M9ntZO/Untitled?node-id=2001-2&t=V0ekCqfoiMo59u2b-1)
 
 ## 📂 Folder Structure
 
 ```
-kyara-beverages/
+kyara/
 ├── assets/
 │   ├── hero_img.png
 │   ├── hero_bg.png
@@ -32,7 +32,7 @@ kyara-beverages/
 ## Run Locally
 
 ```bash
-git clone https://github.com/yourusername/kyara-beverages.git
+git clone https://github.com/keshaapatel/kyara.git
 cd kyara-beverages
 # Open index.html in browser or use Live Server (eg. VScode)
 ```
